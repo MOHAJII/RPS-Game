@@ -15,5 +15,5 @@ RPS-Game est un jeu simple de Pierre-Papier-Ciseaux développé en C++. L'utilis
 
 1. **Cloner le dépôt GitHub** :
    ```bash
-   git clone https://github.com/votre-utilisateur/RPS-Game.git
+   git clone https://github.com/MOHAJII/RPS-Game.git
    cd RPS-Game
